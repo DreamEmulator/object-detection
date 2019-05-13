@@ -1,6 +1,7 @@
 # Run quick object detection:
 
 ### Clone and install ImageAI: 
+> https://github.com/OlafenwaMoses/ImageAI
 >`git@github.com:OlafenwaMoses/ImageAI.git`
 
 #### Copy:
